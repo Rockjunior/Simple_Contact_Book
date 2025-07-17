@@ -1,0 +1,24 @@
+{
+  "name": "simple_contact_book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rockjunior/Simple_Contact_Book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rockjunior/Simple_Contact_Book/issues"
+  },
+  "homepage": "https://github.com/Rockjunior/Simple_Contact_Book#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
